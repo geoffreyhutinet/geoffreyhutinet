@@ -1,5 +1,3 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 # Hi, I’m Geoffre Hutinet (@geoffreyhutinet)
 
 ## About Me
@@ -11,6 +9,9 @@ I’m currently learning how to design AI in python to process biological data s
 ## Tools I worked on
 
 ### [sORTholog](https://github.com/vdclab/sORTholog)
+
+sORTholog produce a table visualization of the presence or absence of encoded proteins in a given set of genomes. The user enters a set of genomes and a set of proteins to detect in the given genomes. This tools does not use any database to determine the groups of orthologs but rather let the user set up threshold to parameters the group of orthologs.
+
 
 ## Relevant publications
 
