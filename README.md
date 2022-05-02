@@ -1,5 +1,3 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 # Hi, I’m Geoffre Hutinet (@geoffreyhutinet)
 
 ## About Me
@@ -22,3 +20,4 @@ I’m currently learning how to design AI in python to process biological data s
 
 You can reach me by e-mail, either on my professional e-mail [ghutinet@ufl.edu](ghutinet@ufl.edu) or personnal e-mail [geoffrey.hutinet@gmail.com](geoffrey.hutinet@gmail.com)
  
+<script async defer src="https://buttons.github.io/buttons.js"></script>
