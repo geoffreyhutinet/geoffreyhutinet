@@ -10,9 +10,7 @@ I’m currently learning how to design AI in python to process biological data s
 
 ## Tools I worked on
 
-<a class="github-button" href="https://github.com/vdclab/sORTholog" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="sORTholog, Sort your Orthologs">sORTholog</a>
-
-[sORTholog](https://github.com/vdclab/sORTholog)
+### [sORTholog](https://github.com/vdclab/sORTholog)
 
 ## Relevant publications
 
@@ -20,6 +18,4 @@ I’m currently learning how to design AI in python to process biological data s
 
 ## Contact me
 
-You can reach me by e-mail, either on my professional e-mail [ghutinet@ufl.edu](ghutinet@ufl.edu) or personnal e-mail [geoffrey.hutinet@gmail.com](geoffrey.hutinet@gmail.com)
- 
-
+You can reach me by e-mail, either on my professional e-mail [ghutinet@ufl.edu](mailto:ghutinet@ufl.edu) or personnal e-mail [geoffrey.hutinet@gmail.com](mailto:geoffrey.hutinet@gmail.com)
