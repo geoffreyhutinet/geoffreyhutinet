@@ -11,6 +11,7 @@ I’m currently learning how to design AI in python to process biological data s
 ### [sORTholog](https://github.com/vdclab/sORTholog)
 
 sORTholog produce a table visualization of the presence or absence of encoded proteins in a given set of genomes. The user enters a set of genomes and a set of proteins to detect in the given genomes. This tools does not use any database to determine the groups of orthologs but rather let the user set up threshold to parameters the group of orthologs.
+[K-base app](https://github.com/kbaseapps/kb_sORTholog) (currently in dev)
 
 ### Other tools I participated in the discussion but not the code
 
